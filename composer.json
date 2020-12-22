@@ -22,9 +22,13 @@
         "bin-dir": "bin",
         "sort-packages": true
     },
+    "repositories": [{
+      "type": "git",
+      "url": "https://github.com/jourdan-qe/dataloader-php"
+    }],
     "require": {
         "php": ">=7.2",
-        "overblog/dataloader-php": "^0.5.0",
+        "overblog/dataloader-php": "feature-allow-null-key",
         "symfony/dependency-injection": "^4.3 || ^5.0"
     },
     "require-dev": {
