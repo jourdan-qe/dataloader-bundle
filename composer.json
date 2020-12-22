@@ -28,7 +28,7 @@
     }],
     "require": {
         "php": ">=7.2",
-        "overblog/dataloader-php": "feature-allow-null-key",
+        "overblog/dataloader-php": "dev-master",
         "symfony/dependency-injection": "^4.3 || ^5.0"
     },
     "require-dev": {
