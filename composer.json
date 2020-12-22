@@ -28,7 +28,7 @@
     }],
     "require": {
         "php": ">=7.2",
-        "jourdan-qe/dataloader-php": "dev-master",
+        "overblog/dataloader-php": "dev-master",
         "symfony/dependency-injection": "^4.3 || ^5.0"
     },
     "require-dev": {
