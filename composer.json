@@ -24,7 +24,7 @@
     },
     "repositories": [{
       "type": "git",
-      "url": "https://github.com/jourdan-qe/dataloader-php"
+      "url": "https://github.com/jourdan-qe/dataloader-php.git"
     }],
     "require": {
         "php": ">=7.2",
